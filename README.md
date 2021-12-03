@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cherishruggless
 - 👀 I’m interested in techncical recruiting
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on open opportunities
+- 💞️ I’m looking to collaborate on open opportunities i have at my company
 - 📫 How to reach me cruggles@instawork.com
 
 <!---
